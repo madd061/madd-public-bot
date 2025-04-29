@@ -1,0 +1,102 @@
+﻿{ 
+    "GuildID": "1365343876961009806",
+    "GuildName": "ALFHEIM",
+    "owners": ["879720373984313495"],
+    "BotDurum": ["A L F H E I M"], 
+    "BotSesKanal": "1365344405233340478",
+    "AltBaşlık": "Developer By Madd",
+
+    "mongoUrl": "mongodb+srv://madd00:madd01@cluster0.gvjvfjk.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0",
+
+    "Welcome": {
+        "Active": true,
+        "Tokens": [
+        "MTM2NTM1MDA0MTUxODIxNTE5OA.GbPJuR.Mz4iT3xCSca8Swy3jsnZO8QedlsyvdL-G6sjd4","MTM2NTM1MDMwMzgwMDQ5MjE2NA.G9Qo8e.JbWdOz8EQEmYJNMx3CrYLI8twvzSvwNrr7byMY","MTM2NTM1MDQ0MTgzMDg0MjUxMQ.Ghi1X9.kVEsVlikiKnzjru7Uhi56OkqjhYz_BriJpUu08","MTM2NTM1MjIwOTI0MzcwMTI3OA.GRvex7.DLSJXg56Jrsk987UuicjPhylfnU_luwjC3jLhQ","MTM2NTM1MjM5MjQwNDc2MjY3Ng.GHckte.KeSDF6ChIX3GFziy7Hlb6q3cl4w9CkojNksEO0"
+      
+
+
+        ],
+        "Channels": [
+            "1365343878420496499","1365343878420496500","1365343878420496501","1365343878420496502","1365343878420496503"
+        
+          
+           
+           
+
+            ]
+    
+        },
+
+    
+
+    "Main": {
+        "ModerationToken": "MTM2NTc3OTQ1NjUzODcwNTk2MA.Gpd5uS.tTxW4FkzsY0oEGyAwXcdAf04Ri3RA6xXBx5nKE",
+        "RegisterToken": "MTM2NTM0NzE4NjQwNTE1MDc5Mg.GsBcGj.6OvsM4ICEXc0lXVYJxLBrPnL88iuhNzI01rUF4",
+        "StatsToken": "MTM2NTc3OTk5MDAyOTAwOTA0Ng.GVL_Ga.rMyIRxur15FCzUB8FsZ9eNjHG5d9kHxkxuIcvs",
+
+        "LevelSystem": true,
+
+        "prefix": [
+            ".",
+            "+",
+            "!",
+            "/",
+            "-",
+            "?",
+            "="
+        ],
+
+        "BotClientID": "1365346625018663102",
+        
+  
+        "banlimit": 3,
+        "jaillimit": 3,
+        "warnlimit": 3,
+        "chatmutelimit": 3,
+        "voicemutelimit": 3,
+        "yetkiCoin": 10
+    },
+    "Guard": {
+        "Token": {
+            "Guard_I": "MTM2NTc3OTk5MDAyOTAwOTA0Ng.GVL_Ga.rMyIRxur15FCzUB8FsZ9eNjHG5d9kHxkxuIcvs",
+            "Guard_II": "MTM2NTc3OTY1NTcyNjIwNzEwNw.Gr15PC.-Jeg1SHuMyEJZjx4FL6xyPxMWPelZFLw4seLQE",
+            "Guard_III": "MTM2NTM0OTA4MDQxNDQyNTE2OA.G67xRB.e_dzM058HG101jh3YfS_LdFcwGQFKYALqP8XH8",
+
+            "TaçHesapToken": "MTM2NTc3OTk5MDAyOTAwOTA0Ng.GVL_Ga.rMyIRxur15FCzUB8FsZ9eNjHG5d9kHxkxuIcvs",
+            "UrlGuardToken": "MTM2NTc3OTk5MDAyOTAwOTA0Ng.GVL_Ga.rMyIRxur15FCzUB8FsZ9eNjHG5d9kHxkxuIcvs",
+
+            "Dağıtıcı": [
+                "MTM2NTM0OTA4MDQxNDQyNTE2OA.G67xRB.e_dzM058HG101jh3YfS_LdFcwGQFKYALqP8XH8"
+            ]
+        },
+        "Limit": {
+            "Ban": 3,
+            "Kick": 3,
+            "RoleCreate": 2,
+            "ChannelCreate": 2,
+
+            "Reklam": 8,
+            "Etiket": 8,
+            "Satır": 8,
+            "Ekler": 8
+        },
+        "kayıt": {
+            "yasKilit": true,
+            "minYas": 16
+        },
+    
+        "Guard": {
+            "TaskDelay": 250,
+            "GiveRoleDelay": 500
+        },
+
+        "kufurEngel": true,
+        "spamEngel": true,
+        "capsEngel": true,
+        "reklamEngel": true
+
+    }
+    
+    
+    
+}

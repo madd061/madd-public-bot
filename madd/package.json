@@ -1,0 +1,38 @@
+{
+  "name": "ancient-bots",
+  "version": "v1.0.0",
+  "description": "ancient-bots",
+  "author": "Agaçı Kökten ancient Götten",
+  "main": "app.config.js",
+  "scripts": {
+    "start": "pm2 start app.config.js"
+  },
+  "license": "ISC",
+  "dependencies": {
+    "@discordjs/rest": "^1.5.0",
+    "@discordjs/voice": "^0.14.0",
+    "@napi-rs/canvas": "^0.1.51",
+    "ark.db": "^2.7.1",
+    "axios": "^0.26.1",
+    "canvafy": "^7.2.0",
+    "canvas": "^2.11.2",
+    "child_process": "^1.0.2",
+    "cron": "^1.8.2",
+    "discord-banners": "^1.0.1",
+    "discord-modals": "^1.3.9",
+    "discord.js": "^14.19.1",
+    "discord.js-selfbot-v13": "^2.3.7",
+    "humanize-duration": "^3.27.1",
+    "moment": "^2.30.1",
+    "moment-duration-format": "^2.3.2",
+    "mongoose": "^6.3.3",
+    "ms": "^2.1.3",
+    "node-cron": "^3.0.2",
+    "play-dl": "^1.9.6",
+    "pm2": "^5.3.0",
+    "prism-media": "^1.3.5",
+    "request": "^2.88.2",
+    "string-table": "^0.1.5",
+    "table": "^6.8.0"
+  }
+}
